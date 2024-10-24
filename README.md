@@ -56,7 +56,7 @@ Los pasos a realizar son los siguientes
 + GitLab.md donde explicaremos el proceso para levantar un contenedor docker en nuestra máquina con una instancia de GitLab.
 
 > ### Primeros pasos
-1. Crea un nuevo repositorio en gitHub y lo clonas en tu equipo. El repositorio debe de llevar por nombre PPS0-Unidad0Actividad3-1TuNombre. ``git init``)
+1. Crea un nuevo repositorio en gitHub y lo clonas en tu equipo. El repositorio debe de llevar por nombre PPS-Unidad0Actividad3-TuNombre. ``git init``)
 6. Crea los archivos y directorios necesarios y los añades al proyecto.Haz un listado en forma de arbol (tree -a) de todos los archivos del directorio.
 2. Comprueba el estado ``git status``
 3. Añade los diferentes archivos y carpetas ``git add ``o ``git add -A``
