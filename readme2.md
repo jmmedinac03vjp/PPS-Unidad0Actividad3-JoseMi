@@ -62,14 +62,35 @@ Los pasos a realizar son los siguientes
 3. Añade los diferentes archivos y carpetas ``git add ``o ``git add -A``
 4. Modifica algún archivo y vuelves a comprobar su estado.
 5. Haz un ``commit``como comentario indica que es la creación de archivos y vuelves a comprobar su estado
-6. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente.
-7. En esta entrega deberas de haber modificado los archivos:
-7. 1. README.md
-7. 2. install.md con el proceso de instalación y configuración de git en nuestro equipo.
-7. 3. GitHub.md con creación de cuenta y uso básico de Git (creación de repositorio, claves SSH, ...)
-7. 4. UsoGit.md con los comandos que has usado hasta el momento....completaremos más más adelante.
+6. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente 
+
+
+
+Una vez que tengas todo preparado 
+En github.com busca y clona el proyecto de victorponz/Ciberseguridad-PePS
+Crea un archivo con nombre index.php. Introduce el código html para que nos muestre un mensaje de Hola mundo con tu nombre.
+Añade el archivo index.php al proyecto.
+Ejecuta php -S 0:8080 para lanzar un servidor con la página html que has creado.
+Puedes acceder a ella en http://localhost:8080
+Modifica el fichero index.php
+Verifica estado del proyecto.
+Refresca navegador para comprobar que ha cambiado.
+Vuelve a la versión anterior del archivo index.php (git restore).
+Vuelve a refrescar navegador para ver como vuelve a versión inicial.
+Para finalizar y ver cómo funcionan los comandos pull y push, haz un push y comprueba cómo han subido los archivos a github.com.
+Modifica el archivo index.php desde la página de github.com y haz un pull y comprueba cómo se ha modificado la página web en nuestro navegador.
+Vamos ahora una pequeña aplicación que nos va a permitir ver información y avatar subida por nosotros: 
+
+
+Clona el repositorio https://github.com/jmmedinac03vjp/pps0-1
+Visualiza con php el contenido de la página web.
+Introduce dentro de la carpeta img una imagen de tu avatar.
+Dentro de la carpeta profile crea un archivo html con el mismo nombre del archivo de la imagen que copiaste.
+Lanza el comando php para que se muestre el contenido de la página web y ver cómo se ha modificado.
+Visualiza el estado del proyecto  (git status)
+
 
 ## Creación-de-Contenedor-GitLab
-
+Entrega un documento explicando estos los pasos principales y resultados, no es necesario que adjuntes capturas de pantalla de cada uno de los puntos ni del proceso de instalación.
 
 Esta actividad se relaciona con el resultado de aprendizaje RA5b
