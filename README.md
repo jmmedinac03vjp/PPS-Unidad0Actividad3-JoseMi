@@ -63,11 +63,13 @@ Los pasos a realizar son los siguientes
 4. Modifica algún archivo y vuelves a comprobar su estado.
 5. Haz un ``commit``como comentario indica que es la creación de archivos y vuelves a comprobar su estado
 6. Sube los cambios al repositorio remoto ``git push origin main` y comprueba si todo se visualiza correctamente.
-7. En esta entrega deberas de haber modificado los archivos:
-7. 1. README.md
-7. 2. install.md con el proceso de instalación y configuración de git en nuestro equipo.
-7. 3. GitHub.md con creación de cuenta y uso básico de Git (creación de repositorio, claves SSH, ...)
-7. 4. UsoGit.md con los comandos que has usado hasta el momento....completaremos más más adelante.
+
+# Entrega de la actividad
+En esta entrega deberas de haber modificado los archivos:
+1. README.md
+2. install.md con el proceso de instalación y configuración de git en nuestro equipo.
+3. GitHub.md con creación de cuenta y uso básico de Git (creación de repositorio, claves SSH, ...)
+4. UsoGit.md con los comandos que has usado hasta el momento....completaremos más más adelante.
 
 ## Creación-de-Contenedor-GitLab
 
