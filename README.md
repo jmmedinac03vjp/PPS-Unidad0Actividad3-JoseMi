@@ -1,13 +1,10 @@
 Actividad 3 - Unidad 0
 Uso de Git
 ===============
-![](excelencia.jpeg)
+![](imagenes/excelencia.jpeg)
 
-
-Tenemos los siguientes documentos:
-1.
-Actividad 3 - Unidad 0. Uso de Git
 ===
+
 Vamos a trabajar con Git.
 
 El producto a realizar será la creación un repositorio (con nombre PPSActividad3Unidad0TuNombre) en la [plataforma de GitHub](https://github.com/)  que contenga un conjunto de archivos donde tendremos archivos de documentación de todo el proceso realizado (en formato .md) junto con el resto de archivos necesarios, imágenes, etc...
