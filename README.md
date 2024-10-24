@@ -1,6 +1,9 @@
 Actividad 3 - Unidad 0
 Uso de Git
 ===============
+![](excelencia.jpeg)
+
+
 Tenemos los siguientes documentos:
 1.
 Actividad 3 - Unidad 0. Uso de Git
