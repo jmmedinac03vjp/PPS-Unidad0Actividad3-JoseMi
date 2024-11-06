@@ -3,7 +3,7 @@ Uso de Git
 ===============
 ![](imagenes/excelencia.jpeg)
 
-===
+===============
 
 Vamos a trabajar con Git.
 
