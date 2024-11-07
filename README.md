@@ -52,7 +52,6 @@ Los pasos a realizar son los siguientes
 
 + UsoGit.md donde indicaremos los comandos principales que usamos en Git.
 + GitHub.md donde explicaremos el proceso de apertura de cuenta, login y funcionamiento básico de la plataforma github.com (deberemos de crear cuenta o utilizar una asociada al correo del centro).
-+ GitLab.md donde explicaremos el proceso para levantar un contenedor docker en nuestra máquina con una instancia de GitLab.
 
 > ### Primeros pasos
 1. Crea un nuevo repositorio en gitHub y lo clonas en tu equipo. El repositorio debe de llevar por nombre PPS-Unidad0Actividad3-TuNombre. ``git init``)
